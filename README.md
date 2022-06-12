@@ -23,6 +23,6 @@ I used multiple control methods (there is a video in the attachment) :
       iii) Decoupling and linearization with feedback.
      vi)  Observing the internal state variables (currents) , And estimating the mass carried by the end-effector, that allowed  to design a programmed gain controller. Estimating and observing increased greatly the robustness of the controller.
 
-Video1: [Delta Robot ISIR88 Design, by SolidWorks   ](https://www.youtube.com/watch?v=wKo5XDvvnwU)
+Video1: [My Desing of Delta Robot ISIR88 by SolidWorks   ](https://www.youtube.com/watch?v=wKo5XDvvnwU)
 
-Video2: Delta Robot (ISIR88) Controlers, using Simulink
+Video2: [Delta Robot (ISIR88) Controlers, using Simulink](https://drive.google.com/open?id=1izkN2h6EaBzOeQ8XD46QqFi9cNrUBTe3)
