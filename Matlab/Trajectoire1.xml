@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimMechanicsImportXML version="1.0" xmlns="urn:mathworks:simmechanics:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="05/23/16||01:43:25" using="SimMechanics Link Version 4.6" from="SolidWorks 23.3.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assemblage1" uid="Assemblage1" version="103">
+<AssemblyFile name="" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Trajectoire1-1" uid="Trajectoire1-1" grounded="true" entityUid="Trajectoire1*:*Défaut">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Trajectoire1" uid="Trajectoire1*:*Défaut" version="157">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Trajectoire1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.14065862949578326</Mass>
+<CenterOfMass>0.00025760901855196867 -0.0041565093175814196 0.0049999980207161756</CenterOfMass>
+<Inertia>0.001649966844651257 0.002053606132470407 0.0037012286671441966 -3.2461209571822458e-011 5.3354312717028867e-012 -3.3655976914000929e-005</Inertia>
+</MassProperties>
+<GeometryFile name="Trajectoire1_Défaut_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.69999999999999996" g="0.69999999999999996" b="0.69999999999999996" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimMechanicsImportXML>
